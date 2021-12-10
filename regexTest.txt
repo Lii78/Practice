@@ -3,11 +3,11 @@
 
 (milk|remon)tea ^.o\d \d{2,3}-\d{4}-\d{4} \d{2,3}-\d{4}-\d{4}
 No\d$ \d{2}-?\d{4}-?\d{4} \d{2}-?\d{4}-?\d{4} \w+\d{2}-?\d{4}-?\d{4}
-Yahoo-*! .* 【.*】【.+】
+Yahoo-*! .* 【.*】【.+】 girls?
 
 #Check Word!
 cat 333-3333 bat 白雪 初雪 小雪 大雪 Aa aZ 第1話 D組 \ . 第0話 test_ あ ヴ  4.5 1+3 test2Ajpg test2.jpg red,white,brue,yellow,green,brue
 
 milktea remontea tea No1 No2 03-2222-2222 090-2222-2222
 No2 No3 03-2222-3333 0333334444 TEL0333333334
-Yahoo---------! Yahoo-! Yahoo! [aaa] 【aafea】 【】 【aaa】
+Yahoo---------! Yahoo-! Yahoo! [aaa] 【aafea】 【】 【aaa】 girl,girls,aa
