@@ -7,6 +7,7 @@ Yahoo-*! .* 【.*】【.+】 girls?
 No\.\d{3} \w{2,} ￥\d{1,3},000-
 ".*?" <.*?>
 (.*)and\1 \d+ \d+(?=year) (?<=since)\d+ test(?!\.txt) (?<!A)BC.*
+win|Win|WIN
 
 
 #Check Word!
@@ -18,3 +19,4 @@ Yahoo---------! Yahoo-! Yahoo! [aaa] 【aafea】 【】 【aaa】 girl,girls,aa
 No.122 No.1 No.222 aa 21 3 1122 ￥1,000- ￥100- ￥122,000-
 "aa" "bbdd" ccc "aaa" <h1>ff</h1> <h2>aa</h2>
 IandI IandYou youandyou 3year 2day 3year 3day aaa1223 since1231 test.jpg test.txt test.png ABC ABBCBC BBC
+Windows,WINDOWS,MIN,windows
