@@ -12,6 +12,7 @@ win|Win|WIN (第\d+回) Yes|No "(.*?)"
 ^\d{2}[-.^]\d{4}[-.^]\d{4}$
 \r\n|\r|\n+
 (.+),\s?(.+)
+\d,\s\d
 
 
 #Check Word!
@@ -28,3 +29,4 @@ Windows,WINDOWS,MIN,windows 今日は、第2回です。次回は、第31回で�
 hat cat hat cat 03. 03^
 03-3333-4444 03^3333^3333 03.3333.3333
 google,https//:google.com example,https//example.com
+3, 8, 5, 4, 4, 5
