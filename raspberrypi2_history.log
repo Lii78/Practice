@@ -1,0 +1,32 @@
+pi@raspberrypi:~ $ history
+    1  ll
+    2  ls
+    3  raspi-config
+    4  sudo raspi-config
+    5  ll
+    6  sudo apt-get install ttf-kochi-gothic xfonts-intl-japanesexfonts-intl-japanese-big xfont-kaname
+    7  ll
+    8  sudo apt-get install ttf-kochi-gothic
+    9  sudo aptautoremove
+   10  sudo apt autoremove
+   11  ll
+   12  apt-get update
+   13  sudo apt-get update
+   14  ll
+   15  sudo apt-get install ttf-kochi-gothic
+   16  sudo apt-get install ttf-kochi-gothic all 20030809-15
+   17  sudo apt-get install xfonts-intl-japanese
+   18  ping https://www.yahoo.co.jp
+   19  sudo apt-get install xfonts-kaname
+   20  sudo apt-get update
+   21  ifconfig
+   22  ip addr
+   23  hostname
+   24  ifconfig -a
+   25  ping youtube.com
+   26  traceroute youtube.com
+   27  nslookup www.yahoo.co.jp
+   28  ping youtube.com -c 3
+   29  ping www.google.co.jp -c 3
+   30  sudo raspi-config
+   31  history
