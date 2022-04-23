@@ -9,3 +9,12 @@ mmal: mmal_component_create_core: could not create component 'vc.ril.camera' (1)
 mmal: Failed to create camera component
 mmal: main: Failed to create camera component
 mmal: Camera is not detected. Please check carefully the camera module is installed correctly
+
+pi@raspberrypi:~ $ lsusb
+Bus 002 Device 002: ID 0b95:1790 ASIX Electronics Corp. AX88179 Gigabit Ethernet
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 001 Device 004: ID 12cf:3003 DEXIN 
+Bus 001 Device 002: ID 2109:3431 VIA Labs, Inc. Hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+pi@raspberrypi:~ $ sudo fswebcam test00001.jpg
+sudo: fswebcam: コマンドが見つかりません
