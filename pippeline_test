@@ -1,0 +1,6 @@
+node {
+ stage 'メッセージ表示'
+ sh 'echo Hello'
+
+ sh 'date'
+ }
